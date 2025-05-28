@@ -7,3 +7,8 @@
 <p>Don’t see a title that speaks to your soul (or your stress levels)? Commit it, and I’ll do my best to hunt it down and add it to the shelf. </p>
   
 <p><strong>Let’s grow smarter together.</strong></p>
+
+
+<p>file:///C:/Users/kongj/Downloads/_OceanofPDF.com_Think_Again_-_Adam_Grant.pdf
+
+file:///C:/Users/kongj/Downloads/_OceanofPDF.com_The_art_of_war_-_Sun_tuz.pdf</p>
